@@ -4,6 +4,8 @@
 Sistem manajemen produk marketplace makeup berbasis CLI dengan implementasi 4 struktur data: Linked List, Hash Map, Stack, Queue + Sorting.
 
 ---
+### Flowchart
+![alt text](https://github.com/vywoo12/UAS_TIASIF25B/blob/main/TIAS%20FLOWCHART%20UAS.jpeg?raw=true)
 
 ### **1. DESKRIPSI SINGKAT**
 Program ini digunakan untuk mengelola data produk makeup dengan fitur CRUD lengkap. Data disimpan di file CSV dan dimuat ke memory menggunakan struktur data agar operasi cepat dan efisien.
